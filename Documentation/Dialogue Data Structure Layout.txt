@@ -1,0 +1,9 @@
+Dialogue - Array<Sentence>
+	Sentence - Struct
+		Text
+		IsChoice
+		Choices - Array<Choice>
+			Choice - Struct
+				Text
+				BookmarkID
+	
