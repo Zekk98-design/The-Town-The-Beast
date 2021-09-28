@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+$ git lfs track "*Stylised_Tree2_Leaves.uasset"
+> Adding path *Stylised_Tree2_Leaves.uasset
