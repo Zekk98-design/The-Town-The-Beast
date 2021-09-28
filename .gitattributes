@@ -2,3 +2,6 @@
 * text=auto
 $ git lfs track "*Stylised_Tree2_Leaves.uasset"
 > Adding path *Stylised_Tree2_Leaves.uasset
+$ git add path/to/file.Stylised_Tree2_Leaves.uasset
+$ git commit -m "add file.Stylised_Tree2_Leaves.uasset"
+$ git push
