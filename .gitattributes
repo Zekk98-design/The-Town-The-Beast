@@ -1,7 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-$ git lfs track "*Stylised_Tree2_Leaves.uasset"
-> Adding path *Stylised_Tree2_Leaves.uasset
-$ git add path/to/file.Stylised_Tree2_Leaves.uasset
-$ git commit -m "add file.Stylised_Tree2_Leaves.uasset"
+$ git lfs track "*.uasset"
+> Adding path *.uasset
+$ git add path/to/file.uasset
+$ git commit -m ".uasset"
 $ git push
